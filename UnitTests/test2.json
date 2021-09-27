@@ -1,0 +1,199 @@
+[
+    {
+      "id": 1,
+      "name": {
+        "first": "Not",
+        "middle": "Frito",
+        "last": "Sure"
+      },
+      "address": {
+        "street": "123 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "home"
+        }
+      ],
+      "email": "harold@example.com"
+    },
+    {
+      "id": 2,
+      "name": {
+        "first": "Bob",
+        "middle": "Jo",
+        "last": "Jones"
+      },
+      "address": {
+        "street": "321 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "mobile"
+        }
+      ],
+      "email": "harold1@example.com"
+    },
+    {
+      "id": 3,
+      "name": {
+        "first": "Not",
+        "middle": "Frito",
+        "last": "Sure"
+      },
+      "address": {
+        "street": "123 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "home"
+        }
+      ],
+      "email": "harold@example.com"
+    },
+    {
+      "id": 4,
+      "name": {
+        "first": "Bob",
+        "middle": "Jo",
+        "last": "Jones"
+      },
+      "address": {
+        "street": "321 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "mobile"
+        }
+      ],
+      "email": "harold1@example.com"
+    },
+    {
+      "id": 5,
+      "name": {
+        "first": "Robert",
+        "middle": "Jo",
+        "last": "Burns"
+      },
+      "address": {
+        "street": "333 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "mobile"
+        }
+      ],
+      "email": "harold2@example.com"
+    },
+    {
+      "id": 6,
+      "name": {
+        "first": "Third",
+        "middle": "Namey",
+        "last": "McThirderson"
+      },
+      "address": {
+        "street": "444 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "home"
+        }
+      ],
+      "email": "harold3@example.com"
+    },
+    {
+      "id": 7,
+      "name": {
+        "first": "Teejay",
+        "middle": "Ahrjay",
+        "last": "Backslashinfourth"
+      },
+      "address": {
+        "street": "555 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "home"
+        }
+      ],
+      "email": "harold4@example.com"
+    },
+    {
+      "id": 8,
+      "name": {
+        "first": "Albert",
+        "middle": "Ramey",
+        "last": "McThirderson"
+      },
+      "address": {
+        "street": "444 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-9148",
+          "type": "home"
+        },
+        {
+          "number": "302-211-3148",
+          "type": "work"
+        }
+      ],
+      "email": "harold7@example.com"
+    },
+    {
+      "id": 9,
+      "name": {
+        "first": "Chip",
+        "middle": "Sam",
+        "last": "Smithy"
+      },
+      "address": {
+        "street": "444 Pine St",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "12345"
+      },
+      "phone": [
+        {
+          "number": "302-611-3147",
+          "type": "home"
+        },
+        {
+          "number": "302-211-3149",
+          "type": "home"
+        }
+      ],
+      "email": "harold7@example.com"
+    }
+  ]
